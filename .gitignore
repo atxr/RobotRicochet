@@ -1,0 +1,22 @@
+##########################
+# Unreal Generated Files #
+##########################
+
+*/Build
+*_BuiltData.uasset
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+RobotRicochet/Content/StarterContent/HDRI
+RobotRicochet/Content/StarterContent/Textures
+
+#####################
+# VSGenerated Files #
+#####################
+
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
